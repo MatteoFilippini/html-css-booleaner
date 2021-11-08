@@ -1,15 +1,18 @@
+/* header */
 .sfondo{
     margin:0;
     height: 100px;
-     background-color:cornflowerblue;   
+    background-color:cornflowerblue;   
     background-image: url(../img/pattern.png);
     background-size: contain; 
+    background-size: 20%;
 }
 
 .logo{
     height: 40%;
     background-image: url(../img/logo.svg);
     background-repeat: no-repeat;
+    /* background-position: left bottom; */
 }
 
 /* main */
@@ -17,7 +20,7 @@ h1{
     margin-bottom: 0;
 }
 
-p{
+.grei{
     margin-top: 0;
     color: grey;
 }
@@ -25,11 +28,11 @@ p{
 a{
     text-decoration: none;
 }
-
+/* make evidente */
 span{
     background-color: yellow;
 }
-
+/* set layout table */
 thead{
     color: white;
     background-color: turquoise;
@@ -37,5 +40,13 @@ thead{
 
 .first{
     background-color: rgb(72, 161, 184);
+}
+
+.dimension{
+    width: 25%;
+}
+
+th{
+    text-align: left;
 }
 
