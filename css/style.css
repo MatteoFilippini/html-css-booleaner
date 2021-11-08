@@ -17,7 +17,7 @@ h1{
     margin-bottom: 0;
 }
 
-#author{
+p{
     margin-top: 0;
     color: grey;
 }
@@ -33,10 +33,6 @@ span{
 thead{
     color: white;
     background-color: turquoise;
-}
-
-.name{
-    background-size: 25%;
 }
 
 .first{
