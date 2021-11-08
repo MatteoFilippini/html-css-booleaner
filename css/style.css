@@ -11,3 +11,35 @@
     background-image: url(../img/logo.svg);
     background-repeat: no-repeat;
 }
+
+/* main */
+h1{
+    margin-bottom: 0;
+}
+
+#author{
+    margin-top: 0;
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+}
+
+span{
+    background-color: yellow;
+}
+
+thead{
+    color: white;
+    background-color: turquoise;
+}
+
+.name{
+    background-size: 25%;
+}
+
+.first{
+    background-color: rgb(72, 161, 184);
+}
+
